@@ -1,4 +1,9 @@
-module.exports = function(eleventyConfig) {
+module.exports = config => {
+
+  // Set directories to pass through to the dist folder
+  config.addPassthroughCopy('./src/css/');
+  config.addPassthroughCopy('./src/images/');
+
   // Return your Object options:
   return {
     markdownTemplateEngine: 'njk',
@@ -9,4 +14,5 @@ module.exports = function(eleventyConfig) {
       output: "docs"
     }
   }
+
 };
