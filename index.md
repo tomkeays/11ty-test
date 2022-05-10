@@ -1,6 +1,6 @@
 ---
 layout: mylayout.njk
-title: Eleventy on GitHub Pages
+title: Welcome
 ---
 # {{ title }}
 
