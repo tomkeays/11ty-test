@@ -1,9 +1,2 @@
----
-layout: mylayout.njk
-title: My Rad Markdown Blog Post
----
-# {{ title }}
+# 11ty-test
 
-How about some nice content, huh?
-
-Yeah! That's what we're talking about.# 11ty-test
