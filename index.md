@@ -1,9 +1,9 @@
 ---
 layout: mylayout.njk
-title: My Rad Markdown Blog Post
+title: Eleventy on GitHub Pages
 ---
 # {{ title }}
 
-How about some nice content, huh?
+So, we're trying to see how hard it is to get Eleventy running in GitHub pages. 
 
-Yeah! That's what we're talking about.# 11ty-test
+See [http://projects.tomkeays.com/11ty-test/](http://projects.tomkeays.com/11ty-test/)
